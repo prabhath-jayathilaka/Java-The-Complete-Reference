@@ -1,3 +1,5 @@
+package com.ch3;
+
 public class Scope {
     public static void main(String[] args) {
         int x;//know to all code within main

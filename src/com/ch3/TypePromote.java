@@ -1,3 +1,5 @@
+package com.ch3;
+
 public class TypePromote {
     public static void main(String[] args) {
         byte b = 40;

@@ -1,3 +1,5 @@
+package com.ch3;
+
 public class LifeTime {
     public static void main(String[] args) {
 

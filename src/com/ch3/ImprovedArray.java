@@ -1,3 +1,5 @@
+package com.ch3;
+
 public class ImprovedArray {
     public static void main(String[] args) {
 //        this is c style declaration

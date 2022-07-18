@@ -1,3 +1,4 @@
+package com.ch3;
 
 // demonstrate a one-dimensional array.
 public class Array {

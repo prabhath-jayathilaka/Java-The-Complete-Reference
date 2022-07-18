@@ -1,3 +1,5 @@
+package com.ch3;
+
 //demonstrate a two-dimensional array
 public class TwoDArray {
     public static void main(String[] args) {

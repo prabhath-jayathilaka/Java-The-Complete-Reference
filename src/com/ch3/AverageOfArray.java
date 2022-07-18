@@ -1,3 +1,5 @@
+package com.ch3;
+
 // Average an array of values
 public class AverageOfArray {
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package com.ch3;
+
 public class Area {
     public static void main(String[] args) {
         double pi, r, a;
